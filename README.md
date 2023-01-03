@@ -1,14 +1,12 @@
 # color-platte-generator
+[![Netlify Status](https://api.netlify.com/api/v1/badges/faccaed0-afc6-41d7-9c73-6f3ed9e9b5d0/deploy-status)](https://app.netlify.com/sites/rad-marigold-d75e50/deploys)
 
-This template should help get you started developing with Vue 3 in Vite.
+This app is an implementation of color palette generator using Vue.js.
 
-## Recommended IDE Setup
+The project idea can be found below:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+https://www.codementor.io/projects/web/random-color-palette-generator-web-app-ccdljvurh6
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
